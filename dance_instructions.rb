@@ -25,5 +25,6 @@ end
 
 def lasso 
   puts "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left." 
+  puts "Lift right arm up and point right elbow diagonally to the right."
   puts ""
 end
