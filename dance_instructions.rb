@@ -39,7 +39,7 @@ def gangnam_style
   base_footwork
   skip_step("right foot")
   bob_the_reins
-  skip_step("leftt foot") 
+  skip_step("left foot") 
   lasso 
   bust_a_move
 end
