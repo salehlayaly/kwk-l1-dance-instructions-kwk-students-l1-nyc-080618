@@ -16,3 +16,5 @@ def skip_step(starting_foot)
   puts "Briefly raise the opposite foot, then the #{starting_foot} twice more"
 end
 
+def bob_the_reins
+end
