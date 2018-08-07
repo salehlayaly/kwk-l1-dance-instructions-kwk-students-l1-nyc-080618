@@ -26,7 +26,7 @@ Roughly, the abstracted components involved are as follows:
 
 Assume the proper stance
 
-1. Plant legs far apart, bend knees slightly and keep posture loose
+puts "Plant legs far apart, bend knees slightly and keep posture loose"
 
 Base Footwork
 
