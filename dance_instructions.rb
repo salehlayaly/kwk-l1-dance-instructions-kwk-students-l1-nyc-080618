@@ -17,4 +17,5 @@ def skip_step(starting_foot)
 end
 
 def bob_the_reins
+  puts ""
 end
